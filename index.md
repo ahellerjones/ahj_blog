@@ -1,7 +1,6 @@
 ---
-title: Welcome to the AHJ blog wher we talk of all possible silly things. 
+title: Welcome to the AHJ blog where we talk of all possible silly things. 
 ---
+Hobby embedded systems, and more to come. 
 
-
-Here is some test I guess.
 
